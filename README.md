@@ -99,9 +99,9 @@ Success / Error Handling
 * Used logging and error handling to make function execution easier to monitor and troubleshoot.
 
 ## Contributors:
-Tanisha Mathur 
-Shyam 
+* Tanisha Mathur 
+* Shyam 
 
 ## Mentors
-Rajendra Sarpal
-Vedant Singh
+* Rajendra Sarpal
+* Vedant Singh
